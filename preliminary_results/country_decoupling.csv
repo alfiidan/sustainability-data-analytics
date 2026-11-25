@@ -1,0 +1,87 @@
+country_id,country,iso3,region,start_year,end_year,gdp_change_pct,ghg_change_pct,decoupling_category
+36,Australia,AUS,Oceania,1990,2020,142.806112,24.08818,Relative decoupling
+36,Australia,AUS,Oceania,1990,2019,137.786049,28.424673,Relative decoupling
+40,Austria,AUT,Western Europe,1990,2020,61.827283,-6.497873,Absolute decoupling
+40,Austria,AUT,Western Europe,1990,2019,72.741534,1.197899,Relative decoupling
+56,Belgium,BEL,Western Europe,1990,2020,59.393183,-26.447227,Absolute decoupling
+56,Belgium,BEL,Western Europe,1990,2019,67.417476,-20.14527,Absolute decoupling
+100,Bulgaria,BGR,Eastern Europe,1990,2020,43.33678,-51.486754,Absolute decoupling
+100,Bulgaria,BGR,Eastern Europe,1990,2019,47.973049,-45.463621,Absolute decoupling
+112,Belarus,BLR,Eastern Europe,1990,2020,99.065088,-38.117278,Absolute decoupling
+112,Belarus,BLR,Eastern Europe,1990,2019,100.400775,-36.499446,Absolute decoupling
+124,Canada,CAN,Northern America,1990,2020,83.536312,11.924096,Relative decoupling
+124,Canada,CAN,Northern America,1990,2019,93.273902,22.948661,Relative decoupling
+191,Croatia,HRV,Southern Europe,1990,2020,15.127828,-23.994788,Absolute decoupling
+191,Croatia,HRV,Southern Europe,1990,2019,25.564283,-21.157114,Absolute decoupling
+196,Cyprus,CYP,Western Asia,1990,2020,148.920602,52.607193,Relative decoupling
+196,Cyprus,CYP,Western Asia,1990,2019,157.205117,59.584586,Relative decoupling
+203,Czechia,CZE,Eastern Europe,1990,2020,67.316025,-43.115634,Absolute decoupling
+203,Czechia,CZE,Eastern Europe,1990,2019,76.689173,-37.894055,Absolute decoupling
+208,Denmark,DNK,Northern Europe,1990,2020,61.414762,-38.062906,Absolute decoupling
+208,Denmark,DNK,Northern Europe,1990,2019,64.340192,-34.640685,Absolute decoupling
+233,Estonia,EST,Northern Europe,1990,2020,79.831303,-71.677971,Absolute decoupling
+233,Estonia,EST,Northern Europe,1990,2019,85.171287,-63.904755,Absolute decoupling
+246,Finland,FIN,Northern Europe,1990,2020,58.377183,-32.820664,Absolute decoupling
+246,Finland,FIN,Northern Europe,1990,2019,62.423204,-25.829583,Absolute decoupling
+250,France,FRA,Western Europe,1990,2020,48.015406,-26.354581,Absolute decoupling
+250,France,FRA,Western Europe,1990,2019,59.914044,-19.078811,Absolute decoupling
+276,Germany,DEU,Western Europe,1990,2020,49.089733,-41.583423,Absolute decoupling
+276,Germany,DEU,Western Europe,1990,2019,55.455864,-36.491534,Absolute decoupling
+300,Greece,GRC,Southern Europe,1990,2020,18.840395,-27.428005,Absolute decoupling
+300,Greece,GRC,Southern Europe,1990,2019,30.876061,-17.148912,Absolute decoupling
+348,Hungary,HUN,Eastern Europe,1990,2020,58.096804,-33.710268,Absolute decoupling
+348,Hungary,HUN,Eastern Europe,1990,2019,65.267298,-31.80842,Absolute decoupling
+352,Iceland,ISL,Northern Europe,1990,2020,102.259457,22.786639,Relative decoupling
+352,Iceland,ISL,Northern Europe,1990,2019,116.658304,28.295502,Relative decoupling
+372,Ireland,IRL,Northern Europe,1990,2020,394.178147,6.134599,Relative decoupling
+372,Ireland,IRL,Northern Europe,1990,2019,361.168195,9.924373,Relative decoupling
+380,Italy,ITA,Southern Europe,1990,2020,11.792346,-26.17749,Absolute decoupling
+380,Italy,ITA,Southern Europe,1990,2019,22.67109,-19.023568,Absolute decoupling
+392,Japan,JPN,Eastern Asia,1990,2020,24.634102,-9.800535,Absolute decoupling
+392,Japan,JPN,Eastern Asia,1990,2019,30.055823,-4.852278,Absolute decoupling
+398,Kazakhstan,KAZ,Central Asia,1990,2020,124.439428,-13.631801,Absolute decoupling
+398,Kazakhstan,KAZ,Central Asia,1990,2019,130.198812,-8.790703,Absolute decoupling
+428,Latvia,LVA,Northern Europe,1990,2020,22.445775,-59.715398,Absolute decoupling
+428,Latvia,LVA,Northern Europe,1990,2019,26.846364,-57.222489,Absolute decoupling
+438,Liechtenstein,LIE,Western Europe,1990,2020,102.515673,-21.238632,Absolute decoupling
+438,Liechtenstein,LIE,Western Europe,1990,2019,103.993106,-17.993898,Absolute decoupling
+440,Lithuania,LTU,Northern Europe,1990,2020,59.08649,-58.105499,Absolute decoupling
+440,Lithuania,LTU,Northern Europe,1990,2019,59.018405,-57.941559,Absolute decoupling
+442,Luxembourg,LUX,Western Europe,1990,2020,163.230728,-29.023685,Absolute decoupling
+442,Luxembourg,LUX,Western Europe,1990,2019,164.580224,-15.5821,Absolute decoupling
+470,Malta,MLT,Southern Europe,1990,2020,259.107878,-19.592051,Absolute decoupling
+470,Malta,MLT,Southern Europe,1990,2019,271.967093,-18.142687,Absolute decoupling
+492,Monaco,MCO,Western Europe,1990,2020,91.418089,-31.913071,Absolute decoupling
+492,Monaco,MCO,Western Europe,1990,2019,120.627149,-18.983342,Absolute decoupling
+528,Netherlands,NLD,Western Europe,1990,2020,75.439568,-25.887354,Absolute decoupling
+528,Netherlands,NLD,Western Europe,1990,2019,82.498525,-18.41644,Absolute decoupling
+554,New Zealand,NZL,Oceania,1990,2020,137.670936,19.48482,Relative decoupling
+554,New Zealand,NZL,Oceania,1990,2019,137.263043,23.593488,Relative decoupling
+578,Norway,NOR,Northern Europe,1990,2020,91.213238,-2.953537,Absolute decoupling
+578,Norway,NOR,Northern Europe,1990,2019,93.688915,0.484639,Relative decoupling
+616,Poland,POL,Eastern Europe,1990,2020,187.987558,-21.755547,Absolute decoupling
+616,Poland,POL,Eastern Europe,1990,2019,193.971543,-18.579108,Absolute decoupling
+620,Portugal,PRT,Southern Europe,1990,2020,39.794146,-2.42799,Absolute decoupling
+620,Portugal,PRT,Southern Europe,1990,2019,52.288889,7.805431,Relative decoupling
+642,Romania,ROU,Eastern Europe,1990,2020,82.119455,-56.429468,Absolute decoupling
+642,Romania,ROU,Eastern Europe,1990,2019,89.066484,-54.980158,Absolute decoupling
+643,Russian Federation,RUS,Eastern Europe,1990,2020,21.34591,-34.910519,Absolute decoupling
+643,Russian Federation,RUS,Eastern Europe,1990,2019,24.653791,-32.529145,Absolute decoupling
+703,Slovakia,SVK,Eastern Europe,1990,2020,113.305757,-49.567995,Absolute decoupling
+703,Slovakia,SVK,Eastern Europe,1990,2019,118.967181,-45.814418,Absolute decoupling
+705,Slovenia,SVN,Southern Europe,1990,2020,76.283689,-15.017115,Absolute decoupling
+705,Slovenia,SVN,Southern Europe,1990,2019,83.791576,-8.473513,Absolute decoupling
+724,Spain,ESP,Southern Europe,1990,2020,59.355675,-5.375515,Absolute decoupling
+724,Spain,ESP,Southern Europe,1990,2019,78.930835,7.682692,Relative decoupling
+752,Sweden,SWE,Northern Europe,1990,2020,78.920274,-35.345384,Absolute decoupling
+752,Sweden,SWE,Northern Europe,1990,2019,82.448457,-29.199168,Absolute decoupling
+756,Switzerland,CHE,Western Europe,1990,2020,55.384729,-20.286464,Absolute decoupling
+756,Switzerland,CHE,Western Europe,1990,2019,58.785497,-15.406533,Absolute decoupling
+792,Türkiye,TUR,Western Asia,1990,2020,252.69364,138.691752,Relative decoupling
+792,Türkiye,TUR,Western Asia,1990,2019,246.253759,131.738165,Relative decoupling
+804,Ukraine,UKR,Eastern Europe,1990,2020,-38.991349,-66.266993,GDP non-growth and falling emissions
+804,Ukraine,UKR,Eastern Europe,1990,2019,-36.612547,-64.561101,GDP non-growth and falling emissions
+826,United Kingdom,GBR,Northern Europe,1990,2020,66.646221,-49.278911,Absolute decoupling
+826,United Kingdom,GBR,Northern Europe,1990,2019,85.26106,-43.788589,Absolute decoupling
+840,United States,USA,Northern America,1990,2020,101.732867,-7.111666,Absolute decoupling
+840,United States,USA,Northern America,1990,2019,106.021226,2.012938,Relative decoupling
