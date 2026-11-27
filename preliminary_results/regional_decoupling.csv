@@ -1,0 +1,19 @@
+region,country_count,start_year,end_year,gdp_change_pct,ghg_change_pct,decoupling_category
+Oceania,2,1990,2020,142.130053,23.480587,Relative decoupling
+Oceania,2,1990,2019,137.717194,27.78701,Relative decoupling
+Western Europe,9,1990,2020,53.277495,-33.76554,Absolute decoupling
+Western Europe,9,1990,2019,61.379284,-27.725981,Absolute decoupling
+Eastern Europe,9,1990,2020,42.406735,-41.064563,Absolute decoupling
+Eastern Europe,9,1990,2019,46.729159,-38.615293,Absolute decoupling
+Northern America,2,1990,2020,100.305207,-5.5282,Absolute decoupling
+Northern America,2,1990,2019,105.0211,3.75445,Relative decoupling
+Southern Europe,7,1990,2020,28.019727,-18.802645,Absolute decoupling
+Southern Europe,7,1990,2019,41.419033,-9.654994,Absolute decoupling
+Western Asia,2,1990,2020,247.727009,136.560947,Relative decoupling
+Western Asia,2,1990,2019,241.991846,129.952186,Relative decoupling
+Northern Europe,10,1990,2020,79.218609,-43.60024,Absolute decoupling
+Northern Europe,10,1990,2019,90.603722,-38.460095,Absolute decoupling
+Eastern Asia,1,1990,2020,24.634102,-9.800535,Absolute decoupling
+Eastern Asia,1,1990,2019,30.055823,-4.852278,Absolute decoupling
+Central Asia,1,1990,2020,124.439428,-13.631801,Absolute decoupling
+Central Asia,1,1990,2019,130.198812,-8.790703,Absolute decoupling
