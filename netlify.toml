@@ -1,0 +1,6 @@
+[build]
+  command = "python task4/build_dashboard.py --repo . --source merged --output dist/index.html --results dashboard_results"
+  publish = "dist"
+
+[build.environment]
+  PYTHON_VERSION = "3.12"
